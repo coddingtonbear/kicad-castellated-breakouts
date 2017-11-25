@@ -15,7 +15,7 @@ like to use them in a design.
 
 ## Boards
 
-## QFP64 (0.5mm pitch)
+### QFP64 (0.5mm pitch)
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/lqfp_fcu.png" />
 
