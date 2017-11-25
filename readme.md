@@ -22,6 +22,7 @@ like to use them in a design.
 <a href="https://oshpark.com/shared_projects/OnER0jUi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
 * IC Pin Pitch: 0.5mm
-* Castellation Pitch: 1.27mm
 * Compatible packages: QFP64 (BQFP64, CQFP64, LQFP64, TQFP64, etc -- generally any 64-pin QFP without a center pad).
+* Castellation Pitch: 1.27mm
+* Path: `qfp64_0.5mm/`
 
