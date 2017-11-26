@@ -25,9 +25,9 @@ tented, you would not be able to easily solder to them!
 
 ### QFP64 (0.5mm pitch)
 
-<img align="right" src="https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/lqfp_fcu.png" />
+<a href="https://oshpark.com/shared_projects/OnER0jUi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
 
-<a href="https://oshpark.com/shared_projects/OnER0jUi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/lqfp_fcu.png)
 
 * IC Pin Pitch: 0.5mm
 * Compatible packages: QFP64 (BQFP64, CQFP64, LQFP64, TQFP64, etc).  No
@@ -36,6 +36,10 @@ tented, you would not be able to easily solder to them!
 * Board Files: [qfp64_0.5mm](qfp64_0.5mm)
 
 ### SSOP8 (0.65mm pitch)
+
+<a href="https://oshpark.com/shared_projects/lRtqVrhi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
+
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/ssop8_fcu.png)
 
 * IC Pin Pitch: 0.65mm
 * Compatible packages: SSOP8 (TSSOP8, etc) having a width (including pins)
