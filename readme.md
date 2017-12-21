@@ -1,5 +1,7 @@
 # Castellated Breakouts for KiCad
 
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/castellated_example.jpg)
+
 Do you own a milling machine that isn't _quite_ precise enough for that
 0.5mm-pitch IC you want to use?  Maybe you like to home-etch your PCBs,
 but you haven't quite worked out a way of consistently exposing tiny
