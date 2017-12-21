@@ -17,9 +17,9 @@ like to use them in a design.
 
 ### QFP64 (0.5mm pitch)
 
-<a href="https://oshpark.com/shared_projects/OnER0jUi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
+<a href="https://www.oshpark.com/shared_projects/ua2rGGDy"><img src="https://www.oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
-![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/lqfp_fcu.png)
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/qfp64_fcu.png)
 
 * IC Pin Pitch: 0.5mm
 * Compatible packages: QFP64 (BQFP64, CQFP64, LQFP64, TQFP64, etc).  No
