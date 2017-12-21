@@ -21,7 +21,7 @@ like to use them in a design.
 
 <a href="https://oshpark.com/shared_projects/qaabAuOa"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
-![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/qfp64_fcu.png)
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/qfp64_fcu_2.1.png)
 
 * IC Pin Pitch: 0.5mm
 * Compatible packages: QFP64 (BQFP64, CQFP64, LQFP64, TQFP64, etc).  No
@@ -41,18 +41,6 @@ like to use them in a design.
 * Castellation Pitch: 1.27mm
 * Board Files: [qfp48_0.5mm](qfp48_0.5mm)
 
-### SSOP8 (0.65mm pitch)
-
-<a href="https://oshpark.com/shared_projects/lRtqVrhi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
-
-![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/ssop8_fcu.png)
-
-* IC Pin Pitch: 0.65mm
-* Compatible packages: SSOP8 (TSSOP8, etc) having a width (including pins)
-  smaller than 9mm.  No center pad.
-* Castellation Pitch: 1.27mm
-* Board Files: [ssop8_0.65mm](ssop8_0.65mm)
-
 ### SSOP20 (0.65mm pitch)
 
 <a href="https://oshpark.com/shared_projects/HR54aK0e"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
@@ -65,6 +53,18 @@ like to use them in a design.
   two rows of pins.
 * Castellation Pitch: 1.27mm
 * Board Files [ssop20_0.65mm](ssop20_0.65mm)
+
+### SSOP8 (0.65mm pitch)
+
+<a href="https://oshpark.com/shared_projects/lRtqVrhi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
+
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/ssop8_fcu.png)
+
+* IC Pin Pitch: 0.65mm
+* Compatible packages: SSOP8 (TSSOP8, etc) having a width (including pins)
+  smaller than 9mm.  No center pad.
+* Castellation Pitch: 1.27mm
+* Board Files: [ssop8_0.65mm](ssop8_0.65mm)
 
 ## Plotting
 
