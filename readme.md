@@ -27,6 +27,18 @@ like to use them in a design.
 * Castellation Pitch: 1.27mm
 * Board Files: [qfp64_0.5mm](qfp64_0.5mm)
 
+### QFP48 (0.5mm pitch)
+
+<a href="https://www.oshpark.com/shared_projects/mXCVQoyT"><img src="https://www.oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+
+![](https://s3-us-west-2.amazonaws.com/coddingtonbear-public/github/kicad-castellated-breakouts/qfp48_fcu.png)
+
+* IC Pin Pitch: 0.5mm
+* Compatible packages: QFP48 (BQFP48, CQFP48, LQFP48, TQFP48, etc).  No
+  center pad.
+* Castellation Pitch: 1.27mm
+* Board Files: [qfp48_0.5mm](qfp48_0.5mm)
+
 ### SSOP8 (0.65mm pitch)
 
 <a href="https://oshpark.com/shared_projects/lRtqVrhi"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park" align="right"></img></a>
