@@ -6,11 +6,12 @@ Do you own a milling machine that isn't _quite_ precise enough for that
 0.5mm-pitch IC you want to use?  Maybe you like to home-etch your PCBs,
 but you haven't quite worked out a way of consistently exposing tiny
 0.2mm traces?  The board designs and footprints in this repository
-can help you continue to rapidly prototype your projects at home by
-letting PCB board houses handle the parts of your design that are
-just a little too difficult to be worth trying to do by yourself.
+can help you continue to develop your bespoke hand-crafted electronics
+projects at home by letting PCB board houses handle the parts of your
+design that are just a little too difficult to be worth fighting with
+on your own.
 
-The boards in this repository can be plotted in KiCad and sent off to your
+Each board in this repository can be plotted in KiCad and sent off to your
 favorite board house (OshPark links are provided below) so you can have
 boards for your favorite ICs readily-available for the next time you'd
 like to use them in a design.
